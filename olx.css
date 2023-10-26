@@ -1,0 +1,466 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: black;
+    overflow: unset;
+}
+
+.header {
+    /* padding: 5px; */
+    height: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.top-bar-items .fa-solid,
+.fa-regular {
+    padding: 10px;
+}
+
+.top-bar-items {
+    padding: 10px;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.header .display {
+    display: flex;
+    gap: 50px;
+
+}
+
+.mid .display2 .logo2 {
+    padding-top: 12px;
+    /* padding-right: 20px; */
+}
+
+.mid .display2 {
+    display: flex;
+    padding-top: 20PX;
+}
+
+.mid .display2 .part {
+    padding: 15px;
+    display: flex;
+    gap: 30px;
+}
+
+
+
+.hello {
+    overflow: unset;
+}
+
+.part6 {
+    display: flex;
+}
+
+.part3 .part7 .fa-solid {
+    font-size: 50px;
+}
+
+.part3 .fa-solid {
+    color: white;
+    background-color: black;
+    font-size: 30px;
+}
+
+.part4 {
+    font-family: sans-serif;
+    padding-top: 10px;
+    color: black;
+}
+
+.part5 {
+
+    border-radius: 40px;
+    border-radius: 20px;
+    width: 60px;
+    text-align: center;
+    border-bottom: 5px solid red;
+    border-top: 5px solid blue;
+    border-right: 5px solid yellow;
+    border-left: 5px solid pink;
+}
+
+.one .two {
+    border: none;
+}
+
+.three ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.one {
+    display: flex;
+    gap: 10px;
+    background-color: aliceblue;
+    background-size: cover;
+}
+
+.one .two select {
+    border: none;
+    width: 110px;
+    font-weight: 900;
+}
+
+.images .back {
+    padding-top: 15px;
+}
+
+.headind h2 {
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.four {
+    display: flex;
+    gap: 50px;
+    text-align: center;
+}
+
+.five {
+    display: flex;
+    gap: 58px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.four P,
+.five p {
+    color: black;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+.phone h1 {
+    font-family: sans-serif;
+    font-weight: 600;
+    color: black;
+    font-size: 30px;
+    padding-top: 100px;
+}
+
+.hello {
+    display: flex;
+    gap: 40px;
+    padding-top: 20px;
+    width: 100%;
+}
+
+.part3 .part9 {
+    padding: 3px;
+    height: 34px;
+    padding-left: 16px;
+}
+
+.part3 {
+    display: flex;
+    padding-left: -5px;
+}
+
+.part2 {
+
+    width: 213px;
+    display: flex;
+}
+
+.part9 {
+    width: 100px;
+    border: 2px solid black;
+    width: 368px;
+}
+
+.part4 a {
+    font-size: 15px;
+    border-bottom: 3px solid black;
+    font-weight: 600;
+}
+
+.part5 a {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.four,
+.five {
+    padding: 10px;
+    padding-top: 30px;
+}
+
+
+
+.part2 select {
+    width: 155px;
+    height: 44px;
+    border-left: none;
+    border-width: 2px;
+}
+
+.part9 {
+    width: 372px;
+    height: 22px;
+}
+
+.part2 .fa-solid {
+    border: 2px solid black;
+    border-right: none;
+    padding: 12px;
+}
+
+.part3 .fa-solid {
+    padding: 6px;
+    height: 32px;
+}
+
+.part9 {
+    width: 410px;
+}
+
+.iphone h1 {
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    /* padding-left: 10px; */
+}
+
+.iphone p {
+    font-size: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: rgba(65, 63, 68, 0.74);
+    padding-top: 15px;
+}
+
+.six {
+    background-color: white;
+    width: 80%;
+    height: 60%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.follow {
+    height: 50%;
+    width: 100%;
+    padding-top: 10%;
+}
+
+.part .part2 select {
+    width: 180px;
+}
+
+.pics {
+    padding-left: 24px;
+    display: flex;
+    gap: 10px;
+    background-color: rgb("#F7F8F9");
+    align-items: center;
+}
+
+.have {
+    display: flex;
+
+}
+
+.your h4 {
+    padding-bottom: 20px;
+}
+
+.your .icon0 {
+    padding-bottom: 50px;
+}
+
+.footer {
+    display: flex;
+    gap: 60px;
+    background-color: #EBEEEF;
+    padding: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-bottom: 50px;
+}
+
+.bikes {
+    display: flex;
+    gap: 70px;
+}
+
+ul {
+    list-style: none;
+}
+
+.footer h2 {
+    font-size: 13px;
+}
+
+.run {
+    display: flex;
+}
+
+.footer ul li a {
+    font-size: 12px;
+    color: #727d9b;
+}
+
+.pics .how {
+    border-left: 1px solid black;
+    /* padding-left: 20px; */
+}
+
+.iphone .pan {
+    border-radius: 10px;
+}
+
+.iphone .pink {
+    border-radius: 10px 10px 0 0;
+}
+
+.table1 .fa-brands,
+.fa-brands,
+.fa-solid,
+.fa-brands {
+    color: #727d9b;
+}
+
+.table1,
+.table2 {
+    padding-top: 10px;
+}
+
+.green {
+    font-size: 12px;
+    background-color: #002F34;
+    padding: 18px;
+    text-align: end;
+}
+
+.green p,
+b {
+    color: white;
+}
+
+
+
+@media (max-width: 1001px) {
+    
+    .mid .display2 .part {
+
+        flex-direction: column;
+}
+
+.three ul {
+    flex-direction: column;
+}
+.one{
+    flex-direction: column;
+    text-align: center;
+}
+
+.four{
+    flex-direction: column;
+    width: 40%;
+    padding-left: 28%;
+}
+.five{
+    flex-direction: column;
+    width: 40%;
+    padding-left: 28%;
+}
+
+.hello{
+    flex-direction: column;
+}
+.have{
+    flex-direction: column;
+}
+
+.pics{
+    flex-direction: column;
+    gap: 50px;
+}
+
+.footer{
+    flex-direction: column;
+    text-align: center;
+}
+.bikes{
+    flex-direction: column ;
+    text-align: center;
+}
+
+.hello{
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+   
+}
+.heading{
+    text-align: center;
+   
+}
+
+.phone h1{
+   
+    text-align: center;
+}
+.display2 .part{
+    align-items: center ;
+}
+.mid .display2{
+    flex-direction: column;
+    align-items: center;
+}
+.header .display{
+    
+    justify-content: center;
+  
+    gap: 3px;
+}
+.how{
+    padding-top: 50px;
+}
+
+
+.part3{
+    width: 50%;
+}
+html{
+    overflow-x: hidden;
+}
+}
+
+@media (max-width: 414) {
+    .part{
+        width: 50%;
+    display: flex;
+    }
+    .cat2{
+        height: 48px;
+    }
+    .ball2{
+        height: 48px;
+    }
+    .how2{
+        height: 48px;
+    }
+    
+}
+
+html{
+    overflow-x:hidden ;
+}
+.main_four ,.main_phone{
+    padding-left: 20px;
+    padding-right: 20px;
+}
